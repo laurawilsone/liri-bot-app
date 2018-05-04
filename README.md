@@ -5,10 +5,10 @@ liri is a Language Interpretation and Recognition Interface app that will take i
 # Instrustions
 
 Liri will take the following commands
-> my-tweets
-> spotify-this-song
-> movie-this
-> do-what-it-says
+* my-tweets
+* spotify-this-song
+* movie-this
+* do-what-it-says
 
 my- tweets
 Liri will show your last 20 tweets in your terminal
